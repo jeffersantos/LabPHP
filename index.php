@@ -1,3 +1,3 @@
 <?php
-echo "Nova página do projeto Openshift";
+echo "Nova página do projeto Openshift Blue/Green";
 ?>
