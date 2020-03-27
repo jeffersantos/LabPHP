@@ -1,3 +1,3 @@
 <?php
-phpinfo();
+echo "Eu modifiquei esta página para o Openshift!";
 ?>
