@@ -1,3 +1,3 @@
 <?php
-phpinfo();
+echo "Nova página do projeto Openshift";
 ?>
